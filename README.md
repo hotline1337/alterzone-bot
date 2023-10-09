@@ -20,13 +20,6 @@ The tool that simplifies the registration process on the AlterZone website and e
 
 - **Efficient and Reliable:** The bot is designed to be reliable and efficient, ensuring smooth operation during use.
 
-## Usage
-
-### Windows Terminal
-
-```python
-C:\> py .\index.py
-```
 ## License
 
 This project is licensed under the GNU General Public License v3.0 (GPLv3). For more details, please see the LICENSE file.
