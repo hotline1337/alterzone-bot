@@ -32,7 +32,7 @@ namespace Driver
             this.limited_offer = limited_offer;
             this.options.AddExcludedArgument("enable-logging");
             foreach (var argument in new[] { 
-                /*"--headless",*/ "--disable-extensions", "--disable-logging", "--log-level=3" 
+                "--headless", "--disable-extensions", "--disable-logging", "--log-level=3" 
             })
             {
                 this.options.AddArgument(argument);
